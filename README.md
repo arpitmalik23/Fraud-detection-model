@@ -1,4 +1,4 @@
-# Credit Default Risk Prediction – SBI Hackathon 2025  
+# Credit Default Risk Prediction
 Machine Learning pipeline to classify bank customers as **defaulters vs non-defaulters** using real credit account data with high class imbalance.
 
 ---
